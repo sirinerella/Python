@@ -13,6 +13,6 @@ print(height)
 # single line comment: start with #
 # multiline comment:''' siri'''
 # memory indexing
-a ="siri"
+a ="hy SIRI"
 v =a[0]
 print(v)
